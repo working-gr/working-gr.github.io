@@ -1,0 +1,116 @@
+{
+  "BANNER":{
+    "OFFER": "20% OFF on pre-registrations"
+  },
+  "SIDEBAR": {
+    "HOME": "Home page",
+    "EXPERIENCES": "Experiences",
+    "COMMUNITY": "Community",
+    "PRICING": "Pricing",
+    "PARTNERSHIPS": "Partnerships",
+    "ABOUT": "About us",
+    "CONTACT": "Contact us"
+  },
+
+  "JOIN": {
+    "HEADER": "Please select a booking option",
+    "CHOICE-CARDS": {
+      "COWORKING": "Coworking Preregistration",
+      "RIBBON": {
+        "OFFER": {
+          "HEADER": "20% OFF",
+          "DESCRIPTION": "Early Bird Offer"
+        },
+        "FREE": {
+          "HEADER": "FREE",
+          "DESCRIPTION": "For your first visit"
+        }
+      }
+    }
+  },
+
+  "HOME": {
+    "NAVBAR": {
+      "BOOK-NOW": "Book now",
+      "BOOK": "Book now",
+      "SCROLL": "Scroll to read more"
+    },
+
+    "HEADER-BUTTONS": {
+      "DISCOVER": "Discover",
+      "EXPERIENCE": "Experience",
+      "JOIN": "Join us"
+    },
+    "HEADERS": {
+      "HEADLINE": "Curated Experiences for Remote Workers",
+      "DISCOVER": "Discover our concept",
+      "EXPERIENCE": "The experience",
+      "JOIN": "Join the journey"
+    },
+
+    "CONTENT": {
+      "DISCOVER": {
+        "PARAGRAPH-1": "Stuck in the same routine? You're not alone. Many professionals face the challenge of repeating the same workday with little excitement or meaningful interaction. Whether you're working from home or in the same office space day after day, it's easy to feel disconnected and uninspired. We offer a solution!",
+        "PARAGRAPH-2": "We bring you a new way to work and connect through curated coworking journeys. This is not your typical coworking experience. We take remote work on the road with a mix of vibrant locations and activities across Greece. Discover working reimagined — breaking the monotony with new opportunities for growth, connection & fun."
+      },
+      "EXPERIENCE": {
+        "PARAGRAPH-1": "Whether it's a creative cultural space, a cozy café, or a rooftop with a view, each experience combines productivity with the chance to get to know like-minded professionals in a whole new way.",
+        "PARAGRAPH-2": "And because we believe in nurturing both mind and body, our experiences offer a diverse range of activities beyond your usual work, such as:",
+        "LIST": {
+          "ITEM-1": "Exclusive mentoring and networking with industry leaders.",
+          "ITEM-2": "Hands-on workshops to collaborate and explore skills.",
+          "ITEM-3": "Art exhibitions and events to spark creativity.",
+          "ITEM-4": "Energizing sports and group activities to keep you sharp.",
+          "ITEM-5": "Social mixers, games & more to unwind after a productive day."
+        }
+      },
+      "JOIN": {
+        "PARAGRAPH-1": "Life is too short to settle for the ordinary. Each one of our remote work experience is a journey — a chance to explore new places, meet inspiring people, push your boundaries & enjoy exciting activities along the way.",
+        "PARAGRAPH-2": "With limited seats available, each experience is carefully curated to provide a balanced blend of productivity, growth, and meaningful social interaction. Join an exciting adventure you will look forward to!",
+        "BUTTON": "Book an experience",
+        "LIMITED": "Limited availability"
+      }
+    },
+
+    "TESTIMONIALS": {
+      "HEADER": "Read what they say about us",
+      "CARDS": [
+        {
+          "AUTHOR": "John Doe",
+          "POSITION": "UX Designer",
+          "REVIEW": "I've been working remotely for years, but this experience was a game-changer for my social life. I can't wait to join the next one!"
+        },
+        {
+          "AUTHOR": "Jane Doe",
+          "POSITION": "Freelancer",
+          "REVIEW": "I was skeptical at first, but I'm so glad I joined. The experience was a perfect mix of work and play. I made new friends and had a blast!"
+        },
+        {
+          "AUTHOR": "Alex Smith",
+          "POSITION": "CEO at Company",
+          "REVIEW": "I felt so inspired! The experience was so well-organized, and the activities were a great way to unwind after work. I highly recommend it!"
+        },
+        {
+          "AUTHOR": "Emily Johnson",
+          "POSITION": "Developer",
+          "REVIEW": "I loved the variety of activities! From workshops to social mixers, there was something for everyone. I can't wait to join the next one!"
+        },
+        {
+          "AUTHOR": "Michael Brown",
+          "POSITION": "Marketer",
+          "REVIEW": "Got to admit, I was a bit burnt out before joining. But this experience recharged my batteries and gave me a fresh perspective and new friends!"
+        },
+        {
+          "AUTHOR": "Sarah Wilson",
+          "POSITION": "Writer",
+          "REVIEW": "I've been to coworking pop-ups before, but this was something else. The experience was so unique, and I loved how it combined work and fun!"
+        }
+      ]
+    }
+  },
+
+  "FOOTER": {
+    "HEADLINE": "Trusted and supported by our partners",
+    "COPYRIGHT": "Copyright © Inhinito SCE - All rights reserved."
+  }
+}
