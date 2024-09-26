@@ -15,7 +15,7 @@
   "JOIN": {
     "HEADER": "Please select a booking option",
     "CHOICE-CARDS": {
-      "COWORKING": "Coworking Preregistration",
+      "PREREGISTER": "Preregister with an email",
       "RIBBON": {
         "OFFER": {
           "HEADER": "20% OFF",

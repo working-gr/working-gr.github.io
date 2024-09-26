@@ -15,7 +15,7 @@
   "JOIN": {
     "HEADER": "Επιλογές Κράτησης",
     "CHOICE-CARDS": {
-      "COWORKING": "Προεγγραφή Coworking",
+      "PREREGISTER": "Προεγγραφή με email",
       "RIBBON": {
         "OFFER": {
           "HEADER": "20% EKΠΤΩΣΗ",
